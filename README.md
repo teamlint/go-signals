@@ -1,7 +1,8 @@
 # 🚨 Signals
 
-[![codecov](https://codecov.io/gh/stellirin/go-signals/branch/main/graph/badge.svg?token=GCUC683YTU)](https://codecov.io/gh/stellirin/go-signals)
-[![Test Action Status](https://github.com/stellirin/go-signals/workflows/Go/badge.svg)](https://github.com/stellirin/go-signals/actions?query=workflow%3AGo)
+[![coverage](https://codecov.io/gh/stellirin/go-signals/branch/main/graph/badge.svg?token=GCUC683YTU)](https://codecov.io/gh/stellirin/go-signals)
+[![tests](https://github.com/stellirin/go-signals/workflows/Go/badge.svg)](https://github.com/stellirin/go-signals/actions?query=workflow%3AGo)
+[![report](https://goreportcard.com/badge/czechia.dev/signals)](https://goreportcard.com/report/czechia.dev/signals)
 
 Signals is a simple package to intercept Interrupt signals.
 
